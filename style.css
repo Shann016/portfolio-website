@@ -19,7 +19,7 @@ body{
     
     width: 100%;
     height: 100vh;
-    background-image: url(Images/front.png);
+    background-image: url(front.png);
     background-size: cover;
     background-position: center;
     animation: fadeIn 3s ease forwards; 
@@ -469,7 +469,7 @@ nav .fa-solid{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(Images/ayawee.png);
+        background-image: url(ayawee.png);
         width: 90%;
         margin-left: 10%;
     }
